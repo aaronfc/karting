@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "KartingApi\\": "app/"
+    }
+  },
+  "require": {
+    "phroute/phroute": "^2.1"
+  }
+}
